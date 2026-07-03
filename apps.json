@@ -1,10 +1,10 @@
 {
   "emerald_launcher": {
     "name": "Emerald Launcher",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/lceonline/AuthApps/main/assets/emerald_launcher.png",
   },
   "lcen_launcher": {
     "name": "LCEN Launcher",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/lceonline/AuthApps/main/assets/lcen_launcher.png",
   }
 }
