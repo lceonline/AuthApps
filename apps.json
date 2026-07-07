@@ -6,7 +6,7 @@
   },
   "lcen_launcher": {
     "name": "LCEN Launcher",
-    "icon": "https://raw.githubusercontent.com/lceonline/AuthApps/main/assets/lcen_launcher.png"
+    "icon": "https://raw.githubusercontent.com/lceonline/AuthApps/main/assets/lcen_launcher.png",
     "callbackUrl": "lcen://auth/callback"
   }
 }
