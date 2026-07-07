@@ -1,7 +1,8 @@
 {
   "emerald_launcher": {
     "name": "Emerald Launcher",
-    "icon": "https://raw.githubusercontent.com/lceonline/AuthApps/main/assets/emerald_launcher.png"
+    "icon": "https://raw.githubusercontent.com/lceonline/AuthApps/main/assets/emerald_launcher.png",
+    "callbackUrl": "emerald://lceonline/auth"
   },
   "lcen_launcher": {
     "name": "LCEN Launcher",
